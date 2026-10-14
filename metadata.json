@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Pedidos de Janta",
+  "description": "Sistema para controle e registro de pedidos de janta com cálculo de totais semanais e mensais, análise de picos de consumo e mapeamento de gastos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
